@@ -1,0 +1,4 @@
+rootProject.name = 'MJS-Labs'
+include 'web'
+include 'core'
+
